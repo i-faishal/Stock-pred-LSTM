@@ -1,5 +1,5 @@
 # Stock-pred-LSTM
-PyTorch-based LSTM/GRU model for multi-output stock prediction using HCLTECH NIFTY-50 data. Uses 10-day input sequences of 11 features to predict next 5 days, evaluated with MSE, RMSE, MAE, and prediction graphs.
+PyTorch-based LSTM/GRU model for multi-output stock prediction using IOC NIFTY-50 data. Uses 10-day input sequences of 11 features to predict next 5 days, evaluated with MSE, RMSE, MAE, and prediction graphs.
 
 # Time Series Forecasting using LSTM (PyTorch)
 
@@ -28,7 +28,7 @@ PyTorch-based LSTM/GRU model for multi-output stock prediction using HCLTECH NIF
 
 ## Visualization
 
-* Actual vs Predicted Close Price
+* Actual vs Predicted Low Price
 * Helps compare model performance visually
 
 ---
